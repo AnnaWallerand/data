@@ -1,4 +1,4 @@
-group,ASHRAE,ASHRAE R-,name,lifetime,ODP,GWP100,OEL,toxicity,flammability,IDHL (v/v),molecular mass (u),boiling temp. (C ),critical temp. (C ),critical pressure (bar),z0-30C COP_h (-),+0-30C Superheat (K),+0-30C Subcool (K),z80-100C COP_h (-),z80-100C SH (K),z80-100C SC (K)
+group,ASHRAE,ASHRAE R-,name,lifetime,ODP,GWP100,OEL,toxicity,flammability,IDHL (v/v),molecular mass (u),boiling temp. (C ),critical temp. (C ),critical pressure (bar),X. 0-30C COP_h (-),X. 0-30C Superheat (K),X. 0-30C Subcool (K),X. 80-100C COP_h (-),X. 80-100C SH (K),X. 80-100C SC (K)
 PCC,R-10,10,Carbon tetrachloride,26,0.73,1400,100,2,1,-1,153.8,76.72,283.35,45.6,0,0,-1,0,0,-1
 CFC,R-11,11,Trichlorofluoromethane,45,1,4750,1000,1,1,1100,137.4,23.77,197.96,44.08,6.9,0,0,12.2,0,0
 CFC,R-12,12,Dichlorodifluoromethane,100,1,10900,1000,1,1,18000,120.9,-29.8,111.97,41.36,6.5,0,0,9.1,0,0
